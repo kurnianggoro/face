@@ -7,8 +7,8 @@ import pandas as pd
 
 from keras.preprocessing.image import img_to_array, load_img
 
-DATASET_PATH = '/media/kurnianggoro/data/face/dataset/MTFL/'
-HAAR_FOLDER = '/home/kurnianggoro/opencv/opencv-master/data/haarcascades/'
+DATASET_PATH = 'dataset/MTFL/'
+HAAR_FOLDER = '/home/username/opencv/opencv-master/data/haarcascades/'
 HAAR_FILE = 'haarcascade_frontalface_default.xml'
 
 def loadTrain(filename):
