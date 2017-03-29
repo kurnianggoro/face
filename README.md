@@ -14,9 +14,9 @@ Alternatively, files from the annotations folder can be copied to the dataset fo
 
 ### Some Test
 blue points are the ground-truth red points are the detection
-![](images/res1.png)
-![](images/res2.png)
-![](images/res3.png)
-![](images/res4.png)
+![](imgs/res1.png)
+![](imgs/res2.png)
+![](imgs/res3.png)
+![](imgs/res4.png)
 
 [mtfl_link]: http://mmlab.ie.cuhk.edu.hk/projects/TCDCN/data/MTFL.zip
